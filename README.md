@@ -1,4 +1,4 @@
-# Robot War Simulator
+# Robot War Simulator 🤖🎮
 
 This project is a Robot War Simulator, implemented in standard C++, that simulates a battlefield where robots compete in warfare following specific rules and behaviors. It leverages Object-Oriented Programming (OOP) principles such as inheritance, polymorphism, and operator overloading, while adhering to custom data structure implementations.
 
