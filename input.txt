@@ -1,0 +1,10 @@
+M by N: 10 15
+Steps: 5
+Robots: 7
+RoboCop RC01_Star random random
+Terminator T01_Alpha 3 8
+TerminatorRoboCop TR01_Gamma 9 9
+BlueThunder BT01_Beta 2 3
+Madbot MB01_Kidd 4 4
+RoboTank RT01_Jet 2 2
+UltimateRobot UR01_Delta 0 0
